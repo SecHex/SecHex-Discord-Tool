@@ -17,8 +17,9 @@ Discord Spammer, Mass DM, One-User DM, ADMIN Giver...
 **10 Stars** - ***Soon...***  ✨                                                                
 **20 Stars** - ***Soon...*** ✨  
 
+![Screenshot 2023-05-18 172507 (2)](https://github.com/SecHex/SecHex-Discord-Tool/assets/96635023/c48144c1-2a7a-4048-9080-9ef04405bd5e)
 
-![Screenshot 2023-05-18 172507 (1)](https://github.com/SecHex/SecHex-Discord-Tool/assets/96635023/ff8c2269-e60a-40f3-a77e-aca1d167ed78)
+
 
 # Disclaimer ⚠️
 This tool is only for testing and academic purposes and can only be used where strict consent has been given. Do not use it for illegal purposes! It is the end user’s responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this tool and software in general.
