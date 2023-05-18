@@ -1,7 +1,7 @@
 # SecHex-Discord-Tool
 Discord Spammer, Mass DM, One-User DM, ADMIN Giver...
 
-**I wrote this in 2h or something. The Script is buggy as f*ck. But i fix this in the next few weeks. **
+**I wrote this in 2h or something. The Script is buggy as f*ck. But i fix this in the next few weeks.**
 
 # Functions ⚡
 + **Get a Server List**                                   
